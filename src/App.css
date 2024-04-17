@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  background: linear-gradient(#ffffff, #4b9393);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.App {
+  height: 100vh;
+}
